@@ -18,3 +18,9 @@ Git spurningar og svör
 	b) git diff --staged 
 	c) git diff commit1 commit2
 	svar = margt og mikið
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+	Það geymir allar útgáfur af verkefni og leyfir manni að hoppa á milli þeirra
+
+
+
