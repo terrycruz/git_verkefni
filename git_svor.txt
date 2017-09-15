@@ -12,3 +12,9 @@ Git spurningar og svör
 	git status = sýnnir okkur leiðir sem hafa mismunir á index og head commit
 	git diff = sýnnir ok hluta sem hafa breist index og full anað
 	git checkout = uppfærir hluti
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+	svar = margt og mikið
