@@ -5,3 +5,10 @@ Git spurningar og svör
 	ls = sínnir allar directroies
 	pwd = sinnir directroies sem þu ert að nota og full skrar leið
 	mkdir = býr til directorie
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone = klonar repository í nýtt directory
+	git log = sýnnir commit logs
+	git status = sýnnir okkur leiðir sem hafa mismunir á index og head commit
+	git diff = sýnnir ok hluta sem hafa breist index og full anað
+	git checkout = uppfærir hluti
