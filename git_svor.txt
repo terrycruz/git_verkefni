@@ -1,1 +1,7 @@
 Git spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd = breit directories
+	ls = sínnir allar directroies
+	pwd = sinnir directroies sem þu ert að nota og full skrar leið
+	mkdir = býr til directorie
